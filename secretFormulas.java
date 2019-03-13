@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class secretFormulas here.
+ * Hi
  *
  * @author (your name)
  * @version (a version number or a date)
